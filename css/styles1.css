@@ -53,6 +53,7 @@
 .items{
 	font-size: 20px;
 	text-align: left;
+	line-height: 1.5;
 }
 @media only screen and (min-width:320px) and (max-width:480px)
 {
